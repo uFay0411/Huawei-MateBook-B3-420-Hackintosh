@@ -1,0 +1,5 @@
+
+NOTE: This version of ocvalidate is only compatible with OpenCore version 1.0.9!
+
+
+Completed validating configs/config-no3D.plist in 1 ms. No issues found.

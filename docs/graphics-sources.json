@@ -1,0 +1,19 @@
+[
+  {
+    "file": "WhateverXe-Graphics-0.3.1.pkg",
+    "url": "https://github.com/b00t0x/WhateverXe-Graphics/releases/download/v0.3.1/WhateverXe-Graphics-0.3.1.pkg",
+    "sha256": "bd8b449431b1bf3815f9011ad3e13c7038012d17aed54dfb2aecfce6b9089623",
+    "verified_against": "official GitHub release asset digest"
+  },
+  {
+    "file": "WhateverXe-0.6.0-RELEASE.zip",
+    "url": "https://github.com/b00t0x/WhateverXe/releases/download/0.6.0/WhateverXe-0.6.0-RELEASE.zip",
+    "sha256": "5831298182223f68c7dfc9c25d0aa2356584a3476a31f1e4ef8ab5ab01ad118f",
+    "verified_against": "official GitHub release asset digest"
+  },
+  {
+    "file": "uninstall-031.sh",
+    "url": "https://raw.githubusercontent.com/b00t0x/WhateverXe-Graphics/59e4ca9e474781dba80a5b5f60fba1767d0a9c2a/uninstall.sh",
+    "sha256": "aad40b6bd2a25b72584f7343a06bb532feab33b3611ac70b1a22731946acbc8b"
+  }
+]

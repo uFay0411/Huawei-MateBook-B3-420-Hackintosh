@@ -1,0 +1,13 @@
+# Keep private diagnostics and local identity overrides out of this repository.
+.DS_Store
+._*
+*.log
+*.ips
+*.zip
+nvram.plist
+opencore-*.txt
+config-private.plist
+config-local.plist
+EFI/OC/config.plist.*
+private*/
+backup*/

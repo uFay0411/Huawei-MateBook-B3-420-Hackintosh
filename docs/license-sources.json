@@ -1,0 +1,80 @@
+[
+  {
+    "repo": "acidanthera/Lilu",
+    "file": "acidanthera--Lilu.txt",
+    "source": "https://github.com/acidanthera/Lilu/blob/master/LICENSE.txt",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/VirtualSMC",
+    "file": "acidanthera--VirtualSMC.txt",
+    "source": "https://github.com/acidanthera/VirtualSMC/blob/master/LICENSE.txt",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/WhateverGreen",
+    "file": "acidanthera--WhateverGreen.txt",
+    "source": "https://github.com/acidanthera/WhateverGreen/blob/master/LICENSE.txt",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/BrcmPatchRAM",
+    "file": "acidanthera--BrcmPatchRAM.txt",
+    "source": "https://github.com/acidanthera/BrcmPatchRAM/blob/master/LICENSE",
+    "spdx": "GPL-2.0"
+  },
+  {
+    "repo": "acidanthera/BrightnessKeys",
+    "file": "acidanthera--BrightnessKeys.txt",
+    "source": "https://github.com/acidanthera/BrightnessKeys/blob/master/LICENSE",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/NVMeFix",
+    "file": "acidanthera--NVMeFix.txt",
+    "source": "https://github.com/acidanthera/NVMeFix/blob/master/LICENSE.txt",
+    "spdx": "NOASSERTION"
+  },
+  {
+    "repo": "acidanthera/RestrictEvents",
+    "file": "acidanthera--RestrictEvents.txt",
+    "source": "https://github.com/acidanthera/RestrictEvents/blob/master/LICENSE.txt",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/VoodooPS2",
+    "file": "acidanthera--VoodooPS2.txt",
+    "source": "https://github.com/acidanthera/VoodooPS2/blob/master/LICENSE.md",
+    "spdx": "NOASSERTION"
+  },
+  {
+    "repo": "VoodooI2C/VoodooI2C",
+    "file": "VoodooI2C--VoodooI2C.txt",
+    "source": "https://github.com/VoodooI2C/VoodooI2C/blob/master/LICENSE.txt",
+    "spdx": "GPL-3.0"
+  },
+  {
+    "repo": "OpenIntelWireless/itlwm",
+    "file": "OpenIntelWireless--itlwm.txt",
+    "source": "https://github.com/OpenIntelWireless/itlwm/blob/master/LICENSE",
+    "spdx": "GPL-2.0"
+  },
+  {
+    "repo": "b00t0x/WhateverXe",
+    "file": "b00t0x--WhateverXe.txt",
+    "source": "https://github.com/b00t0x/WhateverXe/blob/main/LICENSE.txt",
+    "spdx": "BSD-3-Clause"
+  },
+  {
+    "repo": "RehabMan/OS-X-USB-Inject-All",
+    "file": "RehabMan--OS-X-USB-Inject-All.txt",
+    "source": "https://github.com/RehabMan/OS-X-USB-Inject-All/blob/master/License.md",
+    "spdx": "NOASSERTION"
+  },
+  {
+    "repo": "b00t0x/WhateverXe-Graphics",
+    "file": "b00t0x--WhateverXe-Graphics.txt",
+    "source": "https://github.com/b00t0x/WhateverXe-Graphics/blob/main/LICENSE.txt",
+    "spdx": "NOASSERTION"
+  }
+]

@@ -1,0 +1,24 @@
+MIT License
+
+Copyright (c) 2026 uFay0411
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original documentation and configuration contributions in this project,
+to deal in those contributions without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies, and to permit persons to whom they are furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of these contributions.
+
+THE CONTRIBUTIONS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE CONTRIBUTIONS OR THE USE OR OTHER DEALINGS IN THE CONTRIBUTIONS.
+
+Bundled third-party binaries, firmware and upstream-derived tables retain their
+respective upstream licenses and copyrights. This license does not relicense them.
+See THIRD_PARTY.md and LICENSES/.
