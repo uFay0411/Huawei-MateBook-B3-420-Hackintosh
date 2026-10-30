@@ -2,4 +2,4 @@
 NOTE: This version of ocvalidate is only compatible with OpenCore version 1.0.9!
 
 
-Completed validating EFI/OC/config.plist in 1 ms. No issues found.
+Completed validating EFI/OC/config.plist in 0 ms. No issues found.

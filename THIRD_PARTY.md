@@ -23,6 +23,6 @@
 | XHCI-unsupported 相关来源 | [RehabMan/OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) |
 | HfsPlus 等 EFI 文件参考来源 | [acidanthera/OcBinaryData](https://github.com/acidanthera/OcBinaryData) |
 
-依照版本清单查阅相应上游源代码与构建说明。除已单独核对的 OpenCore / WEX / AMFIPass，原启动盘其他二进制未完成逐一与上游发行包的重建对应；其摘要随本仓库保留。`apfs_aligned.efi` 和 SSDT 保留用户实际启动盘版本，当前未建立确切的上游提交对应，不声称为本仓库原创。
+触控板组件已固定到上游官方 CI 提交 `6be653a2d2234ac1f7464ebf12716314975c3920`，来源与摘要见 `docs/touchpad-source.json`。依照版本清单查阅相应上游源代码与构建说明。除已单独核对的 OpenCore / WEX / AMFIPass，原启动盘其他二进制未完成逐一与上游发行包的重建对应；其摘要随本仓库保留。`apfs_aligned.efi` 和 SSDT 保留用户实际启动盘版本，当前未建立确切的上游提交对应，不声称为本仓库原创。
 
 Graphics 0.3.1 pkg 不存放在本仓库；请直接从上游取得并遵循其组件声明。AMFIPass Mod 来源与哈希见下载来源文件。

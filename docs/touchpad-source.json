@@ -1,0 +1,84 @@
+{
+  "official_repository": "VoodooI2C/VoodooI2C",
+  "commit": "6be653a2d2234ac1f7464ebf12716314975c3920",
+  "run_url": "https://github.com/VoodooI2C/VoodooI2C/actions/runs/40157687159",
+  "artifact_id": 12584862177,
+  "official_archive_sha256": "71a8ad60b5e05dc8d95fa405d7e3920f5f76c7664ece6d902e1efacba19500ba",
+  "actual_archive_sha256": "71a8ad60b5e05dc8d95fa405d7e3920f5f76c7664ece6d902e1efacba19500ba",
+  "i2c_match": "0xa0e88086&0xFFFCFFFF",
+  "gpio_names": [
+    "INT34C5",
+    "INTC1055"
+  ],
+  "selected_bundles": [
+    "VoodooI2C.kext",
+    "VoodooI2CHID.kext"
+  ],
+  "components": [
+    {
+      "bundle": "VoodooI2C.kext",
+      "id": "com.alexandred.VoodooI2C",
+      "version": "2.9.1",
+      "compatible_version": "2.0.0",
+      "dependencies": {
+        "com.alexandred.VoodooI2CServices": "1.0",
+        "com.apple.iokit.IOACPIFamily": "1.4",
+        "com.apple.iokit.IOHIDFamily": "2.0",
+        "com.apple.iokit.IOPCIFamily": "2.9",
+        "com.apple.kpi.bsd": "8.0",
+        "com.apple.kpi.iokit": "14",
+        "com.apple.kpi.libkern": "14",
+        "com.apple.kpi.mach": "14",
+        "org.coolstar.VoodooGPIO": "1.1"
+      }
+    },
+    {
+      "bundle": "VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext",
+      "id": "me.kishorprins.VoodooInput",
+      "version": "1.1.7",
+      "compatible_version": null,
+      "dependencies": {
+        "com.apple.iokit.IOHIDFamily": "2.0",
+        "com.apple.kpi.iokit": "14",
+        "com.apple.kpi.libkern": "14",
+        "com.apple.kpi.mach": "13.0"
+      }
+    },
+    {
+      "bundle": "VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext",
+      "id": "com.alexandred.VoodooI2CServices",
+      "version": "1",
+      "compatible_version": "1.0.0",
+      "dependencies": {
+        "com.apple.kpi.iokit": "14",
+        "com.apple.kpi.libkern": "14"
+      }
+    },
+    {
+      "bundle": "VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext",
+      "id": "org.coolstar.VoodooGPIO",
+      "version": "1.1",
+      "compatible_version": "1.1",
+      "dependencies": {
+        "com.apple.iokit.IOACPIFamily": "1.4",
+        "com.apple.kpi.iokit": "13.0",
+        "com.apple.kpi.libkern": "13.0",
+        "com.apple.kpi.mach": "13.0"
+      }
+    },
+    {
+      "bundle": "VoodooI2CHID.kext",
+      "id": "com.alexandred.VoodooI2CHID",
+      "version": "1",
+      "compatible_version": null,
+      "dependencies": {
+        "com.alexandred.VoodooI2C": "2.0",
+        "com.apple.iokit.IOACPIFamily": "1.4",
+        "com.apple.iokit.IOHIDFamily": "2.0",
+        "com.apple.kpi.iokit": "14",
+        "com.apple.kpi.libkern": "14",
+        "com.apple.kpi.mach": "13.0"
+      }
+    }
+  ]
+}
